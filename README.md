@@ -16,5 +16,5 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e sempre
 
 ## 📫 Como me encontrar
 
-<a href="https://linkedin.com/in/yurifsantos" target="blank"><b>Linkedin</b></a> </br>
+<a href="https://linkedin.com/in/yurifsantos" target="blank"><b>LinkedIn</b></a> </br>
 <a href="https://instagram.com/santosfyuri" target="blank"><b>Instagram</b></a>
