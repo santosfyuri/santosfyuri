@@ -18,5 +18,3 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e sempre
 
 <a href="https://linkedin.com/in/yurifsantos" target="blank"><b>Linkedin</b></a> </br>
 <a href="https://instagram.com/santosfyuri" target="blank"><b>Instagram</b></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosfyuri&show_icons=true&locale=en&layout=compact" alt="santosfyuri" /></p>
