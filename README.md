@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e sempre
 
 ## 🚀 Sobre Mim
 
-- 🔭 Atualmente, trabalho na **Betha Sistemas**
+- 🔭 Atualmente, trabalho na **Senior Sistemas**
 - 🌱 Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades
 - ⚡ Curiosidade: Toco alguns instrumentos musicais, mas minha verdadeira paixão é a guitarra
 
