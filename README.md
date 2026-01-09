@@ -8,12 +8,6 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e sempre
 - 🌱 Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades
 - ⚡ Curiosidade: Toco alguns instrumentos musicais, mas minha verdadeira paixão é a guitarra
 
-## 🛠 Tecnologias e Ferramentas
-
-- **Linguagens de Programação:** Java, JavaScript
-- **Frameworks e Bibliotecas:** Spring, AngularJS
-- **Ferramentas de desenvolvimento:** PostgreSQL, MongoDB
-
 ## 📫 Como me encontrar
 
 <a href="https://linkedin.com/in/yurifsantos" target="blank"><b>LinkedIn</b></a> </br>
